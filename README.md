@@ -47,8 +47,8 @@ The aim is to provide an easy-to-use application for gender prediction with clea
 ## Thank you all
 > If you have something to report, contact me
 ---
-[Kggle](https://www.kaggle.com/zlatan599)  
-[Linkedin](https://www.linkedin.com/in/leonardo-cofone-914228361/)
+LINK: [Kggle](https://www.kaggle.com/zlatan599)  
+LINK: [Linkedin](https://www.linkedin.com/in/leonardo-cofone-914228361/)
 
 
 
